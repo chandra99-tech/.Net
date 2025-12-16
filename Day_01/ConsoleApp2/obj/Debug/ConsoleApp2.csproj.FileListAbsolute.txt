@@ -1,0 +1,8 @@
+C:\Users\IET\Desktop\.Net\Day_1\00Demo_Hello\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\IET\Desktop\.Net\Day_1\00Demo_Hello\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\IET\Desktop\.Net\Day_1\00Demo_Hello\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\IET\Desktop\.Net\Day_1\00Demo_Hello\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\IET\Desktop\.Net\Day_1\00Demo_Hello\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.Net\Day_1\00Demo_Hello\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\IET\Desktop\.Net\Day_1\00Demo_Hello\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\IET\Desktop\.Net\Day_1\00Demo_Hello\ConsoleApp2\obj\Debug\ConsoleApp2.exe.config

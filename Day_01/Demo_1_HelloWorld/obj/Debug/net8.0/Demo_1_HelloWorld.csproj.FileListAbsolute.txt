@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\.Net\Day_1\00Demo_Hello\Demo_1_HelloWorld\bin\Debug\net8.0\Demo_1_HelloWorld.exe
+C:\Users\IET\Desktop\.Net\Day_1\00Demo_Hello\Demo_1_HelloWorld\bin\Debug\net8.0\Demo_1_HelloWorld.deps.json
+C:\Users\IET\Desktop\.Net\Day_1\00Demo_Hello\Demo_1_HelloWorld\bin\Debug\net8.0\Demo_1_HelloWorld.runtimeconfig.json
+C:\Users\IET\Desktop\.Net\Day_1\00Demo_Hello\Demo_1_HelloWorld\bin\Debug\net8.0\Demo_1_HelloWorld.dll
+C:\Users\IET\Desktop\.Net\Day_1\00Demo_Hello\Demo_1_HelloWorld\bin\Debug\net8.0\Demo_1_HelloWorld.pdb
+C:\Users\IET\Desktop\.Net\Day_1\00Demo_Hello\Demo_1_HelloWorld\obj\Debug\net8.0\Demo_1_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.Net\Day_1\00Demo_Hello\Demo_1_HelloWorld\obj\Debug\net8.0\Demo_1_HelloWorld.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.Net\Day_1\00Demo_Hello\Demo_1_HelloWorld\obj\Debug\net8.0\Demo_1_HelloWorld.AssemblyInfo.cs
+C:\Users\IET\Desktop\.Net\Day_1\00Demo_Hello\Demo_1_HelloWorld\obj\Debug\net8.0\Demo_1_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.Net\Day_1\00Demo_Hello\Demo_1_HelloWorld\obj\Debug\net8.0\Demo_1_HelloWorld.dll
+C:\Users\IET\Desktop\.Net\Day_1\00Demo_Hello\Demo_1_HelloWorld\obj\Debug\net8.0\refint\Demo_1_HelloWorld.dll
+C:\Users\IET\Desktop\.Net\Day_1\00Demo_Hello\Demo_1_HelloWorld\obj\Debug\net8.0\Demo_1_HelloWorld.pdb
+C:\Users\IET\Desktop\.Net\Day_1\00Demo_Hello\Demo_1_HelloWorld\obj\Debug\net8.0\Demo_1_HelloWorld.genruntimeconfig.cache
+C:\Users\IET\Desktop\.Net\Day_1\00Demo_Hello\Demo_1_HelloWorld\obj\Debug\net8.0\ref\Demo_1_HelloWorld.dll

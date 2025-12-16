@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\.Net\Day_1\00Demo_Hello\Odd_Even\bin\Debug\net8.0\Odd_Even.exe
+C:\Users\IET\Desktop\.Net\Day_1\00Demo_Hello\Odd_Even\bin\Debug\net8.0\Odd_Even.deps.json
+C:\Users\IET\Desktop\.Net\Day_1\00Demo_Hello\Odd_Even\bin\Debug\net8.0\Odd_Even.runtimeconfig.json
+C:\Users\IET\Desktop\.Net\Day_1\00Demo_Hello\Odd_Even\bin\Debug\net8.0\Odd_Even.dll
+C:\Users\IET\Desktop\.Net\Day_1\00Demo_Hello\Odd_Even\bin\Debug\net8.0\Odd_Even.pdb
+C:\Users\IET\Desktop\.Net\Day_1\00Demo_Hello\Odd_Even\obj\Debug\net8.0\Odd_Even.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.Net\Day_1\00Demo_Hello\Odd_Even\obj\Debug\net8.0\Odd_Even.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.Net\Day_1\00Demo_Hello\Odd_Even\obj\Debug\net8.0\Odd_Even.AssemblyInfo.cs
+C:\Users\IET\Desktop\.Net\Day_1\00Demo_Hello\Odd_Even\obj\Debug\net8.0\Odd_Even.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.Net\Day_1\00Demo_Hello\Odd_Even\obj\Debug\net8.0\Odd_Even.dll
+C:\Users\IET\Desktop\.Net\Day_1\00Demo_Hello\Odd_Even\obj\Debug\net8.0\refint\Odd_Even.dll
+C:\Users\IET\Desktop\.Net\Day_1\00Demo_Hello\Odd_Even\obj\Debug\net8.0\Odd_Even.pdb
+C:\Users\IET\Desktop\.Net\Day_1\00Demo_Hello\Odd_Even\obj\Debug\net8.0\Odd_Even.genruntimeconfig.cache
+C:\Users\IET\Desktop\.Net\Day_1\00Demo_Hello\Odd_Even\obj\Debug\net8.0\ref\Odd_Even.dll
