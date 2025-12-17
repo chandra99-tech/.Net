@@ -1,0 +1,4 @@
+C:\Users\IET\Desktop\.Net\Day_3\12Demo_SealedClass\obj\Debug\net8.0\12Demo_SealedClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.Net\Day_3\12Demo_SealedClass\obj\Debug\net8.0\12Demo_SealedClass.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.Net\Day_3\12Demo_SealedClass\obj\Debug\net8.0\12Demo_SealedClass.AssemblyInfo.cs
+C:\Users\IET\Desktop\.Net\Day_3\12Demo_SealedClass\obj\Debug\net8.0\12Demo_SealedClass.csproj.CoreCompileInputs.cache

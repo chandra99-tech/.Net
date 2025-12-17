@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\.Net\Day_3\10Demo_Report\bin\Debug\net8.0\10Demo_Report.exe
+C:\Users\IET\Desktop\.Net\Day_3\10Demo_Report\bin\Debug\net8.0\10Demo_Report.deps.json
+C:\Users\IET\Desktop\.Net\Day_3\10Demo_Report\bin\Debug\net8.0\10Demo_Report.runtimeconfig.json
+C:\Users\IET\Desktop\.Net\Day_3\10Demo_Report\bin\Debug\net8.0\10Demo_Report.dll
+C:\Users\IET\Desktop\.Net\Day_3\10Demo_Report\bin\Debug\net8.0\10Demo_Report.pdb
+C:\Users\IET\Desktop\.Net\Day_3\10Demo_Report\obj\Debug\net8.0\10Demo_Report.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.Net\Day_3\10Demo_Report\obj\Debug\net8.0\10Demo_Report.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.Net\Day_3\10Demo_Report\obj\Debug\net8.0\10Demo_Report.AssemblyInfo.cs
+C:\Users\IET\Desktop\.Net\Day_3\10Demo_Report\obj\Debug\net8.0\10Demo_Report.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.Net\Day_3\10Demo_Report\obj\Debug\net8.0\10Demo_Report.dll
+C:\Users\IET\Desktop\.Net\Day_3\10Demo_Report\obj\Debug\net8.0\refint\10Demo_Report.dll
+C:\Users\IET\Desktop\.Net\Day_3\10Demo_Report\obj\Debug\net8.0\10Demo_Report.pdb
+C:\Users\IET\Desktop\.Net\Day_3\10Demo_Report\obj\Debug\net8.0\10Demo_Report.genruntimeconfig.cache
+C:\Users\IET\Desktop\.Net\Day_3\10Demo_Report\obj\Debug\net8.0\ref\10Demo_Report.dll

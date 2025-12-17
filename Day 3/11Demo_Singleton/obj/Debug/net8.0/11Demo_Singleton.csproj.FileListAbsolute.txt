@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\.Net\Day_3\11Demo_Singleton\bin\Debug\net8.0\11Demo_Singleton.exe
+C:\Users\IET\Desktop\.Net\Day_3\11Demo_Singleton\bin\Debug\net8.0\11Demo_Singleton.deps.json
+C:\Users\IET\Desktop\.Net\Day_3\11Demo_Singleton\bin\Debug\net8.0\11Demo_Singleton.runtimeconfig.json
+C:\Users\IET\Desktop\.Net\Day_3\11Demo_Singleton\bin\Debug\net8.0\11Demo_Singleton.dll
+C:\Users\IET\Desktop\.Net\Day_3\11Demo_Singleton\bin\Debug\net8.0\11Demo_Singleton.pdb
+C:\Users\IET\Desktop\.Net\Day_3\11Demo_Singleton\obj\Debug\net8.0\11Demo_Singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.Net\Day_3\11Demo_Singleton\obj\Debug\net8.0\11Demo_Singleton.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.Net\Day_3\11Demo_Singleton\obj\Debug\net8.0\11Demo_Singleton.AssemblyInfo.cs
+C:\Users\IET\Desktop\.Net\Day_3\11Demo_Singleton\obj\Debug\net8.0\11Demo_Singleton.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.Net\Day_3\11Demo_Singleton\obj\Debug\net8.0\11Demo_Singleton.dll
+C:\Users\IET\Desktop\.Net\Day_3\11Demo_Singleton\obj\Debug\net8.0\refint\11Demo_Singleton.dll
+C:\Users\IET\Desktop\.Net\Day_3\11Demo_Singleton\obj\Debug\net8.0\11Demo_Singleton.pdb
+C:\Users\IET\Desktop\.Net\Day_3\11Demo_Singleton\obj\Debug\net8.0\11Demo_Singleton.genruntimeconfig.cache
+C:\Users\IET\Desktop\.Net\Day_3\11Demo_Singleton\obj\Debug\net8.0\ref\11Demo_Singleton.dll

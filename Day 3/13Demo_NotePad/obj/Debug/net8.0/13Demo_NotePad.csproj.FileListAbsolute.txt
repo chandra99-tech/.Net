@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\.Net\Day_3\13Demo_NotePad\bin\Debug\net8.0\13Demo_NotePad.exe
+C:\Users\IET\Desktop\.Net\Day_3\13Demo_NotePad\bin\Debug\net8.0\13Demo_NotePad.deps.json
+C:\Users\IET\Desktop\.Net\Day_3\13Demo_NotePad\bin\Debug\net8.0\13Demo_NotePad.runtimeconfig.json
+C:\Users\IET\Desktop\.Net\Day_3\13Demo_NotePad\bin\Debug\net8.0\13Demo_NotePad.dll
+C:\Users\IET\Desktop\.Net\Day_3\13Demo_NotePad\bin\Debug\net8.0\13Demo_NotePad.pdb
+C:\Users\IET\Desktop\.Net\Day_3\13Demo_NotePad\obj\Debug\net8.0\13Demo_NotePad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.Net\Day_3\13Demo_NotePad\obj\Debug\net8.0\13Demo_NotePad.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.Net\Day_3\13Demo_NotePad\obj\Debug\net8.0\13Demo_NotePad.AssemblyInfo.cs
+C:\Users\IET\Desktop\.Net\Day_3\13Demo_NotePad\obj\Debug\net8.0\13Demo_NotePad.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.Net\Day_3\13Demo_NotePad\obj\Debug\net8.0\13Demo_NotePad.dll
+C:\Users\IET\Desktop\.Net\Day_3\13Demo_NotePad\obj\Debug\net8.0\refint\13Demo_NotePad.dll
+C:\Users\IET\Desktop\.Net\Day_3\13Demo_NotePad\obj\Debug\net8.0\13Demo_NotePad.pdb
+C:\Users\IET\Desktop\.Net\Day_3\13Demo_NotePad\obj\Debug\net8.0\13Demo_NotePad.genruntimeconfig.cache
+C:\Users\IET\Desktop\.Net\Day_3\13Demo_NotePad\obj\Debug\net8.0\ref\13Demo_NotePad.dll
