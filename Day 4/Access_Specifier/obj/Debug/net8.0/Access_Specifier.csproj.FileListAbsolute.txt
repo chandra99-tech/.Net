@@ -1,0 +1,11 @@
+C:\Users\IET\Desktop\.Net\Day_4\Access_Specifier\bin\Debug\net8.0\Access_Specifier.deps.json
+C:\Users\IET\Desktop\.Net\Day_4\Access_Specifier\bin\Debug\net8.0\Access_Specifier.dll
+C:\Users\IET\Desktop\.Net\Day_4\Access_Specifier\bin\Debug\net8.0\Access_Specifier.pdb
+C:\Users\IET\Desktop\.Net\Day_4\Access_Specifier\obj\Debug\net8.0\Access_Specifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.Net\Day_4\Access_Specifier\obj\Debug\net8.0\Access_Specifier.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.Net\Day_4\Access_Specifier\obj\Debug\net8.0\Access_Specifier.AssemblyInfo.cs
+C:\Users\IET\Desktop\.Net\Day_4\Access_Specifier\obj\Debug\net8.0\Access_Specifier.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.Net\Day_4\Access_Specifier\obj\Debug\net8.0\Access_Specifier.dll
+C:\Users\IET\Desktop\.Net\Day_4\Access_Specifier\obj\Debug\net8.0\refint\Access_Specifier.dll
+C:\Users\IET\Desktop\.Net\Day_4\Access_Specifier\obj\Debug\net8.0\Access_Specifier.pdb
+C:\Users\IET\Desktop\.Net\Day_4\Access_Specifier\obj\Debug\net8.0\ref\Access_Specifier.dll

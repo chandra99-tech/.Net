@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Access_Specifier_Main/1.0.0": {
+        "dependencies": {
+          "Access_Specifier": "1.0.0"
+        },
+        "runtime": {
+          "Access_Specifier_Main.dll": {}
+        }
+      },
+      "Access_Specifier/1.0.0": {
+        "runtime": {
+          "Access_Specifier.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Access_Specifier_Main/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Access_Specifier/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
