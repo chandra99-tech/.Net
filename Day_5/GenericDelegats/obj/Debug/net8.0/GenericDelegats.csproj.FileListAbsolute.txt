@@ -1,0 +1,4 @@
+C:\Users\IET\Desktop\.Net\Day_5\GenericDelegats\obj\Debug\net8.0\GenericDelegats.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.Net\Day_5\GenericDelegats\obj\Debug\net8.0\GenericDelegats.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.Net\Day_5\GenericDelegats\obj\Debug\net8.0\GenericDelegats.AssemblyInfo.cs
+C:\Users\IET\Desktop\.Net\Day_5\GenericDelegats\obj\Debug\net8.0\GenericDelegats.csproj.CoreCompileInputs.cache
