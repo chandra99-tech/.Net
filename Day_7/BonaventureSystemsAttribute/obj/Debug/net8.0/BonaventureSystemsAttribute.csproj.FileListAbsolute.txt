@@ -1,0 +1,11 @@
+C:\Users\IET\Desktop\.Net\Demo\31Demo\BonaventureSystemsAttribute\bin\Debug\net8.0\BonaventureSystemsAttribute.deps.json
+C:\Users\IET\Desktop\.Net\Demo\31Demo\BonaventureSystemsAttribute\bin\Debug\net8.0\BonaventureSystemsAttribute.dll
+C:\Users\IET\Desktop\.Net\Demo\31Demo\BonaventureSystemsAttribute\bin\Debug\net8.0\BonaventureSystemsAttribute.pdb
+C:\Users\IET\Desktop\.Net\Demo\31Demo\BonaventureSystemsAttribute\obj\Debug\net8.0\BonaventureSystemsAttribute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.Net\Demo\31Demo\BonaventureSystemsAttribute\obj\Debug\net8.0\BonaventureSystemsAttribute.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.Net\Demo\31Demo\BonaventureSystemsAttribute\obj\Debug\net8.0\BonaventureSystemsAttribute.AssemblyInfo.cs
+C:\Users\IET\Desktop\.Net\Demo\31Demo\BonaventureSystemsAttribute\obj\Debug\net8.0\BonaventureSystemsAttribute.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.Net\Demo\31Demo\BonaventureSystemsAttribute\obj\Debug\net8.0\BonaventureSystemsAttribute.dll
+C:\Users\IET\Desktop\.Net\Demo\31Demo\BonaventureSystemsAttribute\obj\Debug\net8.0\refint\BonaventureSystemsAttribute.dll
+C:\Users\IET\Desktop\.Net\Demo\31Demo\BonaventureSystemsAttribute\obj\Debug\net8.0\BonaventureSystemsAttribute.pdb
+C:\Users\IET\Desktop\.Net\Demo\31Demo\BonaventureSystemsAttribute\obj\Debug\net8.0\ref\BonaventureSystemsAttribute.dll
