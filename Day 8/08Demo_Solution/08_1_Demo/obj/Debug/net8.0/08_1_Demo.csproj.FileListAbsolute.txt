@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\.Net\Day_8\08Demo_Solution\08_1_Demo\bin\Debug\net8.0\08_1_Demo.exe
+C:\Users\IET\Desktop\.Net\Day_8\08Demo_Solution\08_1_Demo\bin\Debug\net8.0\08_1_Demo.deps.json
+C:\Users\IET\Desktop\.Net\Day_8\08Demo_Solution\08_1_Demo\bin\Debug\net8.0\08_1_Demo.runtimeconfig.json
+C:\Users\IET\Desktop\.Net\Day_8\08Demo_Solution\08_1_Demo\bin\Debug\net8.0\08_1_Demo.dll
+C:\Users\IET\Desktop\.Net\Day_8\08Demo_Solution\08_1_Demo\bin\Debug\net8.0\08_1_Demo.pdb
+C:\Users\IET\Desktop\.Net\Day_8\08Demo_Solution\08_1_Demo\obj\Debug\net8.0\08_1_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.Net\Day_8\08Demo_Solution\08_1_Demo\obj\Debug\net8.0\08_1_Demo.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.Net\Day_8\08Demo_Solution\08_1_Demo\obj\Debug\net8.0\08_1_Demo.AssemblyInfo.cs
+C:\Users\IET\Desktop\.Net\Day_8\08Demo_Solution\08_1_Demo\obj\Debug\net8.0\08_1_Demo.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.Net\Day_8\08Demo_Solution\08_1_Demo\obj\Debug\net8.0\08_1_Demo.dll
+C:\Users\IET\Desktop\.Net\Day_8\08Demo_Solution\08_1_Demo\obj\Debug\net8.0\refint\08_1_Demo.dll
+C:\Users\IET\Desktop\.Net\Day_8\08Demo_Solution\08_1_Demo\obj\Debug\net8.0\08_1_Demo.pdb
+C:\Users\IET\Desktop\.Net\Day_8\08Demo_Solution\08_1_Demo\obj\Debug\net8.0\08_1_Demo.genruntimeconfig.cache
+C:\Users\IET\Desktop\.Net\Day_8\08Demo_Solution\08_1_Demo\obj\Debug\net8.0\ref\08_1_Demo.dll
